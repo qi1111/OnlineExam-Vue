@@ -1,0 +1,18 @@
+/*全局样式配置*/
+html,body,#app{
+    height: 100%;
+    margin: 0%;
+    padding: 0%;
+}
+/*学生模板二级导航样式*/
+/*表格表头与表间距*/
+.el-table thead{
+    line-height: 0;
+}
+/*搜索框*/
+.el-input--small .el-input__inner{
+    height: 24px;
+    line-height: 24px;
+    width: 240px;
+}
+
